@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+.vscode
+public
+src/assets
+
+# Ignore all HTML files:
+**/*.html
+
+# Ignore all JSON files:
+**/*.json
